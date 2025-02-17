@@ -10,7 +10,6 @@ This is a simple currency converter application built using Vue.js. The applicat
 
 ## Technologies Used
 - **Vue.js**: The application is built using Vue.js, a progressive JavaScript framework for building user interfaces.
-- **Vue Router**: For managing navigation between different components.
 - **CSS**: Basic styling is applied using CSS for a clean and modern look.
 
 ## Installation
