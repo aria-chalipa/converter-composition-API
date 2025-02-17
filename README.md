@@ -54,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration from various currency converter applications.
 
 ## Contact
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please reach out to [your-email@example.com](mailto:aria.chalipa.2002@gmail.com).
